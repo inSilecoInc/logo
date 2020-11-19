@@ -12,9 +12,9 @@
    viewBox="0 0 100 100"
    version="1.1"
    id="svg8"
-   inkscape:export-filename="/Users/SteveVissault/Documents/Git/inSilecoBlog/static/img/banner2.png"
-   inkscape:export-xdpi="33"
-   inkscape:export-ydpi="33"
+   inkscape:export-filename="/home/kevcaz/Projects/inSilecoInc/logo/logo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="inSilecoInc.svg">
   <defs
@@ -50,7 +50,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0992597"
-     inkscape:cx="-20.480635"
+     inkscape:cx="130.03899"
      inkscape:cy="246.82823"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1-9"
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,7 +86,7 @@
       <flowRoot
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
-         transform="matrix(0.32690734,0,0,0.32690734,-338.24499,-425.31007)"
+         transform="matrix(0.30129515,0,0,0.30129515,-326.73644,-441.98383)"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:57.5491px;line-height:125%;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot9715-1-5-4-0-4-9"
          xml:space="preserve"><flowRegion
@@ -1332,7 +1332,9 @@
          style="fill:#535d6c;fill-opacity:1" />
       <g
          id="g4393"
-         transform="matrix(1.2408397,0,0,1.2408397,36.098585,128.23926)">
+         transform="matrix(1.2670864,0,0,1.2670864,39.432481,141.76345)"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300">
         <path
            style="fill:#37abc8;fill-opacity:1;stroke-width:0.264583"
            d="m -141.09388,-596.55877 c -4.58126,0.24262 -8.84139,1.63047 -12.53471,3.89398 0,0 -0.0667,0.0377 -0.27299,0.17037 -7.54407,4.76276 -12.63227,13.1714 -12.63227,22.73318 0,0.34925 0.28337,0.63235 0.63236,0.63235 0.34898,0 0.63235,-0.28284 0.63235,-0.63235 0,-5.49196 1.80605,-10.59357 4.76091,-14.76737 l 6.67756,5.40482 c -1.57586,2.81914 -2.48074,6.05922 -2.48074,9.51309 0,2.53895 0.50086,4.95777 1.38483,7.18556 l -15.71149,4.96887 c -1.49304,-3.77851 -2.32277,-7.89067 -2.32277,-12.19544 0,-7.99676 2.92708,-15.74712 8.15102,-21.78597 0.68527,-0.79163 0.59769,-1.99046 -0.195,-2.67599 -0.79269,-0.68528 -2.04179,-0.57979 -2.72706,0.21475 -5.8166,6.72889 -9.02097,15.34107 -9.02097,24.24774 0,20.4515 16.63964,37.09088 37.09088,37.09088 l 1.1e-4,5e-5 c 1.04854,0 1.8968,-0.84825 1.8968,-1.8968 0,-1.04828 -0.84826,-1.89653 -1.8968,-1.89653 -13.60673,0 -25.32698,-8.2079 -30.48741,-19.93159 l 4.63788,-1.46553 c 0.52361,1.73117 2.42517,6.43229 8.51218,11.14928 0.11483,0.0889 0.25188,0.13203 0.38708,0.13203 0.18944,0 0.37545,-0.0825 0.50086,-0.2458 0.21352,-0.27543 0.16298,-0.67178 -0.11298,-0.88662 -5.80496,-4.49739 -7.60783,-9.01409 -8.07588,-10.53333 l 9.88669,-3.12658 c 3.14087,6.6212 9.87187,11.21966 17.67417,11.21966 0.6977,0 1.26444,-0.56568 1.26444,-1.26418 0,-0.69797 -0.567,-1.26445 -1.26444,-1.26445 -9.39827,0 -17.04314,-7.64513 -17.04314,-17.04075 0,-9.39774 7.64487,-17.04314 17.04314,-17.04314 0.6977,0 1.26444,-0.5662 1.26444,-1.26444 0,-0.69771 -0.567,-1.26444 -1.26444,-1.26444 -6.8842,0 -12.93734,3.58087 -16.42745,8.96911 l -6.58098,-5.32757 c 1.74228,-2.22197 3.83619,-4.15052 6.20924,-5.69568 l 2.23202,2.54079 c 0.12542,0.14155 0.29819,0.21484 0.47414,0.21484 0.1434,0 0.28707,-0.0481 0.40454,-0.14711 0.032,-0.0267 3.22342,-2.63631 7.52502,-2.81966 0.34872,-0.0148 0.56806,-0.28954 0.55403,-0.63905 -0.0137,-0.34899 -0.27675,-0.64153 -0.60695,-0.62434 -3.75814,0.15928 -6.66988,1.94496 -7.78933,2.73897 l -1.69677,-1.93199 c 3.41312,-1.98808 7.26836,-3.17667 11.44084,-3.39442"
