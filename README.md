@@ -1,13 +1,15 @@
-# Logo 
+# Logo
 
-* `inSilecoInc.svg` : inSileco Inc. logo (100x100mm). 
+Briefly, this repository includes : 
 
-* `inSilecoBlog.svg` : [inSileco Blog](https://github.com/inSileco) logo (). 
+* `inSilecoInc.svg` : inSileco Inc. logo (100 x 100 mm). 
 
-* `inSilecoBlog_banners.svg` :  [inSileco Blog banner](https://insileco.github.io/)
+* `inSilecoBlog.svg` : [inSileco Blog](https://github.com/inSileco) logo. 
 
-* `inSileco_draft.svg` : various useful parts used to created the logo.
+* `inSilecoBlog_banners.svg` : [inSileco Blog banner](https://insileco.github.io/)
 
-* `logo.png` : inSileco Inc. logo (100x100mm, 300dpi)
+* `inSileco_draft.svg` : various parts that were used to created the different logos.
 
-* `logoNoName.png` : inSileco Inc. logo without "inSileco" (100x100mm, 300dpi)
+* `logo.png` : inSileco Inc. logo (100 x 100 mm, 300 dpi)
+
+* `logoNoName.png` : inSileco Inc. logo without "inSileco" (100 x 100 mm, 300 dpi)
