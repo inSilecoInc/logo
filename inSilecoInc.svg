@@ -12,7 +12,7 @@
    viewBox="0 0 100 100"
    version="1.1"
    id="svg8"
-   inkscape:export-filename="/home/kevcaz/Projects/inSilecoInc/logo/logoNoName_2books.png"
+   inkscape:export-filename="/home/kevcaz/Projects/inSilecoInc/logo/logoNoName_2BooksWhite.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -47,11 +47,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.2275253"
-     inkscape:cx="227.36767"
-     inkscape:cy="145.64634"
+     inkscape:zoom="1.5773871"
+     inkscape:cx="183.38534"
+     inkscape:cy="203.88149"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1-9"
      showgrid="false"
@@ -62,7 +62,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -71,7 +72,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1312,27 +1313,27 @@
       <flowRoot
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
-         transform="matrix(0.28450783,0,0,0.28450783,-311.55203,-470.0029)"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:57.5491px;line-height:125%;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.28450783,0,0,0.28450783,-312.06597,-453.01455)"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:57.5491px;line-height:125%;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot9715-1-5-4-0-4-9"
          xml:space="preserve"><flowRegion
            id="flowRegion9717-0-0-7-6-0-0"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:57.5491px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><rect
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:57.5491px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><rect
              y="-631.10516"
              x="507.09659"
              height="247.48738"
              width="392.94934"
              id="rect9719-3-1-9-1-1-8"
-             style="-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-family:'Josefin Sans';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:57.54909746px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:57.8001px;font-family:Poppins;-inkscape-font-specification:'Poppins, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             style="-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-family:'Josefin Sans';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:57.54909746px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:57.8001px;font-family:Poppins;-inkscape-font-specification:'Poppins, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
            id="flowPara9721-8-1-7-5-3-8"><flowSpan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.8001px;font-family:Poppins;-inkscape-font-specification:'Poppins, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.8001px;font-family:Poppins;-inkscape-font-specification:'Poppins, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
              id="flowSpan6290">in</flowSpan><flowSpan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.8001px;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.8001px;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
              id="flowSpan5058">Sileco</flowSpan></flowPara></flowRoot>
       <g
          id="g2782"
-         transform="matrix(1.0958585,0,0,1.0958585,13.641752,47.12012)">
+         transform="matrix(1.0393426,0,0,1.0393426,5.6574461,22.443835)">
         <path
            style="fill:#37abc8;fill-opacity:1;stroke-width:0.33525"
            d="m -139.34566,-614.12805 c -5.80485,0.30742 -11.2028,2.06594 -15.88256,4.934 0,0 -0.0845,0.0478 -0.3459,0.21588 -9.55899,6.03483 -16.00618,16.6893 -16.00618,28.8049 0,0.44253 0.35906,0.80124 0.80126,0.80124 0.44219,0 0.80124,-0.35838 0.80124,-0.80124 0,-6.95879 2.28842,-13.42297 6.03249,-18.71153 l 8.46104,6.84837 c -1.99675,3.5721 -3.14331,7.67756 -3.14331,12.05391 0,3.21707 0.63463,6.28192 1.7547,9.10472 l -19.90782,6.29599 c -1.89181,-4.7877 -2.94315,-9.99816 -2.94315,-15.45267 0,-10.13259 3.70887,-19.95297 10.32805,-27.60471 0.8683,-1.00306 0.75732,-2.52209 -0.24708,-3.39071 -1.00441,-0.86831 -2.58713,-0.73465 -3.45542,0.27211 -7.37014,8.52608 -11.43035,19.43846 -11.43035,30.72398 0,25.91381 21.08386,46.99735 46.99735,46.99735 l 1.4e-4,6e-5 c 1.32859,0 2.40341,-1.07481 2.40341,-2.40341 0,-1.32826 -1.07482,-2.40307 -2.40341,-2.40307 -17.2409,0 -32.09147,-10.40012 -38.63018,-25.25504 l 5.87659,-1.85696 c 0.66346,2.19355 3.0729,8.15027 10.78567,14.1271 0.1455,0.11265 0.31915,0.1673 0.49046,0.1673 0.24004,0 0.47573,-0.10454 0.63463,-0.31145 0.27055,-0.349 0.20651,-0.85121 -0.14315,-1.12343 -7.35539,-5.69858 -9.63978,-11.42163 -10.23284,-13.34664 l 12.52729,-3.96164 c 3.97975,8.38963 12.50851,14.21628 22.3947,14.21628 0.88405,0 1.60216,-0.71677 1.60216,-1.60183 0,-0.88439 -0.71844,-1.60217 -1.60216,-1.60217 -11.90842,0 -21.59513,-9.68704 -21.59513,-21.5921 0,-11.90775 9.68671,-21.59513 21.59513,-21.59513 0.88405,0 1.60216,-0.71742 1.60216,-1.60215 0,-0.88406 -0.71844,-1.60216 -1.60216,-1.60216 -8.72287,0 -16.39273,4.53727 -20.815,11.36464 l -8.33867,-6.75049 c 2.20762,-2.81543 4.86079,-5.25907 7.86765,-7.21692 l 2.82816,3.2194 c 0.15892,0.17935 0.37783,0.27222 0.60077,0.27222 0.18171,0 0.36375,-0.061 0.51259,-0.1864 0.0406,-0.0338 4.08435,-3.34043 9.53485,-3.57275 0.44186,-0.0188 0.71978,-0.36688 0.70201,-0.80974 -0.0174,-0.4422 -0.35067,-0.81287 -0.76906,-0.79109 -4.76189,0.20182 -8.45132,2.46443 -9.86976,3.47051 l -2.14995,-2.448 c 4.32472,-2.51906 9.20964,-4.02511 14.49653,-4.30102"

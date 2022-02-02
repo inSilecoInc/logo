@@ -13,3 +13,9 @@ Briefly, this repository includes :
 * `logo.png` : inSileco Inc. logo (100 x 100 mm, 300 dpi)
 
 * `logoNoName.png` : inSileco Inc. logo without "inSileco" (100 x 100 mm, 300 dpi)
+
+
+
+Colors: 
+
+* blue: `#00acc9` (close to "deepskyblue")
