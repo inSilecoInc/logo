@@ -4,8 +4,8 @@
 col1=( "#3fb3b2" "#aad400" "#ffcc00" "#ff2a2a" "#ffffff" )
 col2=( "#ffffff" "#ffffff" "#ffffff" "#ffffff" "#999999" )
 namc=( "turquoise" "yellowgreen" "gold" "red" "white" ) 
-nami=( "chip" "cloud" "book" )
-namf=( "main" "cloud" "training" ) 
+nami=( "chip" "cloud" "book" "robot" )
+namf=( "main" "cloud" "training" "robot" ) 
 
 mkdir ./tmp
 mkdir -p ./shades/png

@@ -4,8 +4,8 @@
 col1=( "#3FB3B2" "#AAD400" "#FFCC00" "#FF2A2A" "#FFFFFF" )
 col2=( "#FFFFFF" "#FFFFFF" "#FFFFFF" "#FFFFFF" "#000000" )
 namc=( "turquoise" "yellowgreen" "gold" "red" "white" ) 
-nami=( "chip" "cloud" "book" )
-namf=( "main" "cloud" "training" ) 
+nami=( "chip" "cloud" "book" "robot" )
+namf=( "main" "cloud" "training" "robot" ) 
 
 mkdir ./tmp
 
