@@ -1,8 +1,10 @@
-# pip install qrcode[pil]
+# source .venv/bin/activate.fish
+# python3 -m pip install qrcode[pil]
+# python3 make_qr.py
 import qrcode
 
-DATA = "http://events.insileco.io/"
-OUT  = "qr_events.svg"
+DATA = "http://insileco.io/qr"
+OUT  = "main_qr.svg"
 
 BG = "#37abc8"   # sticker/background
 FG = "#37abc8"   # QR code color (reference uses blue modules on white)
